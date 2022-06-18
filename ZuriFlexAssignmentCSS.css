@@ -1,0 +1,35 @@
+*{
+    padding-left:  auto;
+    padding-right:  auto;
+}
+.oga{
+margin-left: auto;
+margin-right: auto;
+display:flex}
+
+.sedan{margin-left: auto;
+    margin-right: auto;
+    background-color: #cc6b10;
+    padding: 20px;
+
+}
+.sed {color:darkorange
+}
+.suvs{color:darkslategray}
+.lux{color:darkolivegreen}
+
+h2{ color: white;}
+.suv{margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(3, 82, 82);
+    padding: 20px;
+}
+.luxury{margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(5, 46, 19, 0.979);
+    padding: 20px;
+}
+button{
+    border-radius: 50px;
+    border: 1px solid white;
+}
